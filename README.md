@@ -1,2 +1,57 @@
-# cocktailpro
+# Privacy Policy
 Privacy Policy
+Privacy Policy
+
+Last updated: June 6, 2026
+
+This Privacy Policy describes how Cocktail Pro ("we", "our", or "the App") handles your information when you use our mobile application.
+
+1. Information We Collect
+
+Cocktail Pro does not collect, store, or transmit any personal information, usage data, or device identifiers.
+
+The App operates entirely offline on your device. No data is sent to any server, third-party service, or analytics platform.
+
+2. Local Storage
+
+The App uses local on-device storage (Capacitor Preferences) solely to remember your preferences, including:
+
+- Favorite cocktails you have bookmarked
+- Ingredients you have added to "My Bar"
+- Your selected language preference (English, Spanish, or French)
+
+All of this data remains exclusively on your device and is never transmitted anywhere. You can clear this data at any time through your device's App Settings.
+
+3. Internet Access
+
+Cocktail Pro is designed to function fully offline with all 1,009 cocktail recipes bundled directly in the app. The App requires no internet connection to operate.
+
+If you have an internet connection, the App may attempt to load cocktail images from TheCocktailDB.com to enhance your experience. These images are loaded directly from the public API and no data about you is sent to or tracked by that service. The App functions normally without internet access using built-in gradient placeholder images.
+
+4. Third-Party Services
+
+Cocktail Pro does not integrate any third-party analytics, advertising, crash reporting, or tracking SDKs.
+
+The App does not use:
+- Google Analytics or any analytics service
+- Google AdMob or any advertising network
+- Firebase or any cloud service
+- Any form of user tracking or profiling
+
+5. Children's Privacy
+
+Cocktail Pro does not collect any personal information from anyone, including children under the age of 13.
+
+6. Data Security
+
+Since no data is collected or transmitted, there are no data security risks associated with using the App. All locally stored preference data is protected by your device's existing security measures.
+
+7. Changes to This Privacy Policy
+
+We may update this Privacy Policy from time to time. Changes will be posted within the App or at the provided contact address. Continued use of the App after changes constitutes acceptance of the updated policy.
+
+8. Contact Us
+
+If you have any questions about this Privacy Policy, please contact us at:
+
+ivanng611@gmail.com
